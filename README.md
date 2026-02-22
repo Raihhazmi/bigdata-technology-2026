@@ -107,8 +107,8 @@ pymongo
 ## 👤 Author
 
 | Nama | NIM |
-|Muhammad Raihan Azmi|230104040079|
-
+|------|-----|
+| Muhammad Raihan Azmi | 230104040079 |
 
 ---
 
